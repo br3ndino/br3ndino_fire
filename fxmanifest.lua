@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Your Name'
+author 'Br3ndino'
 description 'Advanced Dynamic Fire System with Weather Integration'
 version '1.0.0'
 
