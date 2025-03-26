@@ -17,7 +17,7 @@ client_scripts {
 }
 
 dependencies {
-    'avweather',
+    'av_weather',
     'ps-dispatch',
     'qb-core' -- Adjust if you use another framework
 }
